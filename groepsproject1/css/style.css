@@ -1,0 +1,10 @@
+/* Override Bootstrap button styles */
+.btn-primary {
+    background-color: #6c757d; /* Gray color */
+    border-color: #6c757d; /* Gray color */
+}
+
+.btn-primary:hover {
+    background-color: #5a6268; /* Darker shade of gray */
+    border-color: #5a6268; /* Darker shade of gray */
+}
